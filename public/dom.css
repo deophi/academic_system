@@ -1,0 +1,21 @@
+    body{
+      font-family:'Times New Roman';
+      margin-left: 50px;
+    }
+    .container{
+      width:100%;
+      height:auto;
+    }
+    table{
+      border: none;
+      margin:0;
+      width:100%;
+    }
+    th{
+      text-align: center;
+      font-size: 14px;
+    }
+    .ket{
+      font-size: 14px;
+      font-family:'Times New Roman';
+    }
